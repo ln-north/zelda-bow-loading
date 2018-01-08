@@ -15,6 +15,7 @@ body {
     align-items: center;
     justify-content: center;
     object-fit: contain;
+    font-family: sans-serif;
 }
 
 .bow-motion-blur {
